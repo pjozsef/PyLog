@@ -1,2 +1,2 @@
 # PyLog
-Keylogger to collect keystroke biometrics.
+A simple keylogger program written in python to collect keystroke biometrics for my anomaly detection machine learning project.
